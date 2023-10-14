@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACT-02/static/css/main.4dfd9e0c.css",
+    "main.js": "/REACT-02/static/js/main.29591d23.js",
+    "static/media/sun.png": "/REACT-02/static/media/sun.f3dd15f388ca6b743db5.png",
+    "static/media/brightness.png": "/REACT-02/static/media/brightness.f38abd4b4bcc934ca10a.png",
+    "index.html": "/REACT-02/index.html",
+    "main.4dfd9e0c.css.map": "/REACT-02/static/css/main.4dfd9e0c.css.map",
+    "main.29591d23.js.map": "/REACT-02/static/js/main.29591d23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dfd9e0c.css",
+    "static/js/main.29591d23.js"
+  ]
+}
